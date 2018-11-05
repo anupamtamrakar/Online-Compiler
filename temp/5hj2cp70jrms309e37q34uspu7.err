@@ -1,0 +1,4 @@
+temp/5hj2cp70jrms309e37q34uspu7.c: In function 'main':
+temp/5hj2cp70jrms309e37q34uspu7.c:6:1: error: expected ';' before '}' token
+ }
+ ^

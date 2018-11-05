@@ -1,0 +1,3 @@
+/tmp/ccTay8b3.o: In function `main':
+b64bk93bv7ldinrrvcin3cqeh6.c:(.text+0x11): undefined reference to `print'
+collect2: error: ld returned 1 exit status

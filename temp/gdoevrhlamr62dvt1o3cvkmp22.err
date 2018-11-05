@@ -1,0 +1,7 @@
+temp/gdoevrhlamr62dvt1o3cvkmp22.c: In function 'main':
+temp/gdoevrhlamr62dvt1o3cvkmp22.c:5:25: error: expected expression before ';' token
+  printf("Hello Anupam")[;
+                         ^
+temp/gdoevrhlamr62dvt1o3cvkmp22.c:8:1: error: expected ';' before '}' token
+ }
+ ^

@@ -1,0 +1,4 @@
+/var/www/ccomp/temp/bn9qbmms45j1i90l3ooum4k2f6.c: In function 'main':
+/var/www/ccomp/temp/bn9qbmms45j1i90l3ooum4k2f6.c:5:1: error: expected ';' before '}' token
+ }
+ ^
