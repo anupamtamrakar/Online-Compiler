@@ -6,4 +6,4 @@ This works in linux based operating system and should be deployed in web server 
 
 Run index.php file
 
-# Note: It uses linux gcc command to java compiling
+Note: It uses linux gcc command to java compiling
